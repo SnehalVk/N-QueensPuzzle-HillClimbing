@@ -1,6 +1,6 @@
 
 /**
- *   Author : Dheeraj Mirashi (801151308), Snehal Kulkarni (801147615), Adwait More (801134139)
+ *   
  *   File Name : Board.java
  *   Description : This is the base class consisting of all the Board related operations and variables used accross the algorithms
  */

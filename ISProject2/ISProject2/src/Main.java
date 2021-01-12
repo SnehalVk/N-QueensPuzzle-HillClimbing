@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- *   Author : Dheeraj Mirashi (801151308), Snehal Kulkarni (801147615), Adwait More (801134139)
+ *   
  *   File Name : Main.java
  *   Description : This is the starting point of the application N-Queen using Hill Climbing.
  *                   Here the input Number of Queens is taken from user and then the choice of algorithm is asked.

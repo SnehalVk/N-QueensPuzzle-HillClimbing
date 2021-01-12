@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- *   Author : Dheeraj Mirashi (801151308), Snehal Kulkarni (801147615), Adwait More (801134139)
+ *   Author : Snehal Kulkarni
  *   File Name : HillClimbingSteepestAscent.java
  *   Description : This class solves the N-Queen problem using the steepest ascent hill climbing algorithm
  */
